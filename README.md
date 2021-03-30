@@ -1,6 +1,6 @@
 # titanic kaggle challenge
 
-<h5>This repo is basically a journal on my journy through  [Kagggle's Titanic - Machine Learning from Disaste competition][titanic]</h5>
+<h5>This repo is basically a journal on my journy through  [[Kagggle's Titanic - Machine Learning from Disaste competition]][titanic]</h5>
 
 Day 1 aka March 30, 2021 
 I'm still very unsure about the datasets especially because they are already split into training and testing  (That's something I had never encountered before).
