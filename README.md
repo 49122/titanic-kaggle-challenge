@@ -24,3 +24,9 @@ Plans for tomorrow
 and with this information create a new column (feature) for my model
 2: Look for more ideas like the one discribed on the last point.
 3: if my accuracy is not getting better then I'll look for some help on the internet.
+
+Day 3, April 1, 2021
+Today I did a whole lot of reserch and learning about different aproches to the competition I also did a lot of data analysis and feature engineering and thats about it which means taht my score didn't actually get any better, but my knowledge on the subject increased significantly.
+
+Plans for tomorrow 
+1: to be honest i dont know the only thing in my mind is to try some of the ML models that I know of and if that doesm's work i guess I'll have to look online for some inspiration.
