@@ -13,3 +13,14 @@ Plans for tomorrow:
   1: Try and use more ensemble models
   2: if 1 doesn't work then ill try and change the features that im using
   3: if none of the others work ill watch some videos on the subject
+
+
+Day 2, March 31, 2021
+So, i was wrong in the way I was using the datasets, after figuring that out and re building my model so that it would actually work 
+I uploaded my prediction to kaggle getting 78% accuracy which is not that bad but definitely not good enough.
+
+Plans for tomorrow 
+1: Look at the data in more datail and try to get some insights on what might be usefull one of my ideas is to to try and figure out if a family survived together 
+and with this information create a new column (feature) for my model
+2: Look for more ideas like the one discribed on the last point.
+3: if my accuracy is not getting better then I'll look for some help on the internet.
