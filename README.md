@@ -15,7 +15,7 @@ Plans for tomorrow:
   3: if none of the others work ill watch some videos on the subject
 
 
-Day 2, March 31, 2021
+Day 2, March 31 2021
 So, i was wrong in the way I was using the datasets, after figuring that out and re building my model so that it would actually work 
 I uploaded my prediction to kaggle getting 78% accuracy which is not that bad but definitely not good enough.
 
@@ -25,8 +25,13 @@ and with this information create a new column (feature) for my model
 2: Look for more ideas like the one discribed on the last point.
 3: if my accuracy is not getting better then I'll look for some help on the internet.
 
-Day 3, April 1, 2021
+Day 3, April 1 2021
 Today I did a whole lot of reserch and learning about different aproches to the competition I also did a lot of data analysis and feature engineering and thats about it, which means that my score didn't actually get any better, but my knowledge on the subject increased significantly.
 
 Plans for tomorrow 
 1: to be honest i dont know the only thing in my mind is to try some of the ML models that I know of and if that doesm's work i guess I'll have to look online for some inspiration.
+
+Day 4, April 3 2021
+Today was crushing all the work that i did yesterday and today basically amounted to nothing score wise, but, I did learn a lot about many diferent things so I guess i didn't completely lose my time.
+
+Plans for tomorrow: follow along with a guide from kaggle. The only proble is that the guy from the guide uses R so ill have to translate what he does to python
