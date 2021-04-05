@@ -35,3 +35,6 @@ Day 4, April 3 2021
 Today was crushing all the work that i did yesterday and today basically amounted to nothing score wise, but, I did learn a lot about many diferent things so I guess i didn't completely lose my time.
 
 Plans for tomorrow: follow along with a guide from kaggle. The only proble is that the guy from the guide uses R so ill have to translate what he does to python
+
+Day 5, April 4 2021
+Taking a break to learn R I'll be back.
